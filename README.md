@@ -1,9 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, 
+### <div align="center"> I'm Adolfo Jimenez, an Electronic Engineer and a self-taugh Backend Developer 📚 </div>
 
-### <div align="center">I'm Adolfo Jimenez, an Electronic Engineer and Backend Developer 🚀</div>
-- 🔬 Check out my latest project, an e-commerce REST API with multiple capabilities. [E-Commerce API](https://github.com/adolfojmnz/e-commerce-api)
-- 🌱 I’m currently learning about microservices architecture with implementation on Django and AWS.
-- ⚡ Fun fact: we don't really know what's the speed of light as it hasn't been measured in a one-way trip.
+- 🔬 Check out my latest project, an e-commerce REST API with multiple capabilities: [E-Commerce API](https://github.com/adolfojmnz/e-commerce-api)
+- 🌱 I’m currently learning about microservices architecture, as well as the implementation of best practices and design patterns.
+- ⚡ Fun fact: We don't really know what's the speed of light as it hasn't been measured in a one-way trip.
 
 
 ## Expertise
@@ -12,19 +12,18 @@
 - Linux
 - DevOps
 - Networking
-- RESTFul APIs  
-- Backend Development
+- RESTFul APIs
 - Relational Databases
+- Backend Development
 
-## Key Skills
-- GIT
-- AWS
-- Docker
-- Python
-- Django
-- Django Rest Framework
-- PostgreSQL / MySQL / SQL
-- JavaScript / React / Next.js
+
+## Key Skills/Technologies
+  🚀 GIT | AWS | Docker | Python | Django | Django Rest Framework | PostgreSQL | MySQL | SQL | JavaScript | React | Next.js
+
+
+## Recent skills (still learning)
+  🌱 FastAPI | SQLAlchemy | Celery | Redis | RabbitMQ
+
 
 ## Education
 - 🎓 Bachelor's Degree in Electronic Engineering
