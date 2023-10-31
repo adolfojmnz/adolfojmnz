@@ -7,14 +7,7 @@
 
 
 ## Expertise
-- TDD
-- Cloud
-- Linux
-- DevOps
-- Networking
-- RESTFul APIs
-- Relational Databases
-- Backend Development
+ 🛰️ TDD | Cloud | Linux | DevOps | Networking | RESTFul APIs | Relational Databases | Backend Development
 
 
 ## Key Skills/Technologies
