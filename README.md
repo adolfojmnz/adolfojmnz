@@ -14,10 +14,6 @@
   🚀 GIT | AWS | Docker | Python | Django | Django Rest Framework | PostgreSQL | MySQL | SQL | JavaScript | React | Next.js
 
 
-### Recent skills (still learning)
-  🌱 FastAPI | SQLAlchemy | Celery | Redis | RabbitMQ
-
-
 <details>
   <summary><h3>Education</h2></summary>
   <ul>
