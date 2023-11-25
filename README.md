@@ -6,16 +6,37 @@
 - ⚡ Fun fact: We don't really know what's the speed of light as it hasn't been measured in a one-way trip.
 
 
-### Expertise
- 🛰️ TDD | Cloud | Linux | DevOps | Networking | RESTFul APIs | Relational Databases | Backend Development
-
-
-### Key Skills/Technologies
-  🚀 GIT | AWS | Docker | Python | Django | Django Rest Framework | PostgreSQL | MySQL | SQL | JavaScript | React | Next.js
+<details>
+  <summary><h3>Expertise</h3></summary>
+  <ul>
+   <li>TDD</li>
+   <li>Cloud</li>
+   <li>Linux</li>
+   <li>DevOps</li>
+   <li>Networking</li>
+   <li>RESTFul APIs</li>
+   <li>Relational Databases</li>
+   <li>Backend Development</li>
+  </ul>
+</details>
 
 
 <details>
-  <summary><h3>Education</h2></summary>
+  <summary><h3>Key Skills</h3></summary>
+  <ul>
+    <li>Git</li>
+    <li>AWS</li>
+    <li>Docker</li>
+    <li>Python</li>
+    <li>Django | DRF</li>
+    <li>PostgreSQL | MySQL | SQL</li>
+    <li>JavaScript | React | Next.js</li>
+  </ul>
+</details>
+
+
+<details>
+  <summary><h3>Education</h3></summary>
   <ul>
     <li> 🎓 Bachelor's Degree in Electronic Engineering </li>
     <li> 💻 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NWGERU9D5CH5">DevOps on AWS Professional Certificate </li>
@@ -30,7 +51,8 @@
         <li> <a href="https://eloquentjavascript.net/">Eloquent JavaScript</a> by Marijn Haverbeke. </li>
       </ul>
   </ul>
-
+</details>
+ 
 
 <!-- 
 [website]:
