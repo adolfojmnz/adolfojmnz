@@ -46,13 +46,13 @@
     <li> ⚛️ <a href="https://academia.holamundo.io/courses/ultimate-react">Ultimate React</a></li>
     <li> 📖 Plus a few programming books such as: </li>
       <ul>
-        <li> <a href="http://openbookproject.net/thinkcs/python/english3e/">How To Think Like a Computer Scientist</a> by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers. </li>
-        <li> <a href="https://automatetheboringstuff.com/">Automate The Boring Stuff With Python</a> by Al Sweigart. </li>
+        <li> <a href="http://openbookproject.net/thinkcs/python/english3e/">How To Think Like a Computer Scientist</a> by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers.</li>
+        <li> <a href="https://automatetheboringstuff.com/">Automate The Boring Stuff With Python</a> by Al Sweigart.</li>
         <li> <a href="https://www.oreilly.com/library/view/data-structures/9780134855912/">Data Structures and Algorithms in Python</a> by John Canning, Alan Broder, Robert Lafore.</li>
-        <li> <a href="https://djangoforprofessionals.com/">Django For Professionals</a> by William Vincent. </li>
-        <li> <a href="https://django-unleashed.com/">Django Unleashed</a> by Andrew Pinkham. </li>
-        <li> <a href="https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/">Practical SQL 2nd Edition by Anthony DeBarros. </li>
-        <li> <a href="https://eloquentjavascript.net/">Eloquent JavaScript</a> by Marijn Haverbeke. </li>
+        <li> <a href="https://djangoforprofessionals.com/">Django For Professionals</a> by William Vincent.</li>
+        <li> <a href="https://django-unleashed.com/">Django Unleashed</a> by Andrew Pinkham.</li>
+        <li> <a href="https://www.oreilly.com/library/view/practical-sql-2nd/9781098129866/">Practical SQL 2nd Edition</a> by Anthony DeBarros.</li>
+        <li> <a href="https://eloquentjavascript.net/">Eloquent JavaScript</a> by Marijn Haverbeke.</li>
       </ul>
   </ul>
 </details>
